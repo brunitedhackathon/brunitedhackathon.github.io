@@ -1,5 +1,4 @@
 # brunitedhackathon.github.io
 
-hackathon website
-
-new news: hackathon cancelled due to lack of time needed to prepare
+> [!IMPORTANT]  
+> The BR United Hackathon has been CANCELLED due to lack of needed time
